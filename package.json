@@ -1,0 +1,8 @@
+{
+  "name": "com.alwaystoolate.localization",
+  "displayName": "AlwaysTooLate Localization",
+  "description": "AlwaysTooLate's Localization module. Adds simple to use localization resolving and management.",
+  "unity": "2018.3",
+  "version": "1.0.0",
+  "type": "library"
+}
